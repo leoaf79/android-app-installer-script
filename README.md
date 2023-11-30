@@ -26,4 +26,4 @@ This script is designed for macOS users to add custom applications to an Android
 > Verify the compatibility and safety of the APK applications you wish to install.
 
 > [!WARNING]
-> Modifying the a headunit software may impact the vehicle's warranty or functionality. It is advised to proceed with caution and under your own responsibility.
+> Modifying a headunit software may impact the vehicle's warranty or functionality. It is advised to proceed with caution and under your own responsibility.
