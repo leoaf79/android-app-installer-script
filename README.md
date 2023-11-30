@@ -1,6 +1,6 @@
 # Android Application Installer Script (macOS)
 
-This installer is designed for macOS users to add custom applications to an Android device. It's an open-source tool that's straightforward to use, facilitating the wireless installation of Android applications into the car's multimedia system.
+This script is designed for macOS users to add custom applications to an Android device. It's an open-source tool that's straightforward to use, facilitating the wireless installation of Android applications into the car's multimedia system.
 
 ## Pre-requisites
 
